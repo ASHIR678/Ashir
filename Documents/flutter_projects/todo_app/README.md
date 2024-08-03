@@ -1,16 +1,4 @@
-# todotute
+This project is a simple to-do application designed to help users manage their tasks effectively. As my first project, it focuses on providing a clean and intuitive interface where users can easily create, view, and update their tasks. The core functionality includes the ability to add new tasks, mark them as complete or incomplete with a simple checkbox, and remove tasks when they are no longer needed. The app is built to be straightforward, making task management accessible and efficient for users. Through this project, I’ve gained valuable experience in developing a functional application and understanding the fundamentals of user interface design and task management.
 
-A new Flutter project.
+thanks keep supporting.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
